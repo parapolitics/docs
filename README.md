@@ -1,8 +1,7 @@
 ## context
 
 **misc**
-- Michael Riconosciuto 9/11 letters: Riconosciuto allegedly predicted 9/11 while incarcerated. Likely fake
+- Michael Riconosciuto 9/11 letters ``source dubious (educate-yourself.org)``
 
-```diff
-! Source dubious (educate-yourself.org)
-```
+*organiz**
+- WWF 1001 member lists ``source dubious (isgp-studies.com)``
